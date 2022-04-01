@@ -87,6 +87,9 @@
 .btn-black{
     background: #4d3f7e;
 }
+.btn-purple{
+    background: #7c00b5;
+}
 body {
     min-height: 100vh;
     background-color: var(--pastelblue);
