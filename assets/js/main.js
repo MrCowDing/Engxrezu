@@ -71,7 +71,7 @@ $(document).ready(function(){
 // }
 
 // ========================= Change Color ========================= //
-const btn_tosqa = document.querySelector('.btn-success');
+const btn_purple = document.querySelector('.btn-purple');
 const btn_blue = document.querySelector('.btn-blue');
 const btn_dark = document.querySelector('.btn-dark');
 
