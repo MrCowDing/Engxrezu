@@ -84,7 +84,7 @@ const modalBlue = document.querySelector('.modal-blue');
 const modalBlack = document.querySelector('.modal-black');
 
 // get Element
-btn_tosqa.addEventListener('click', () => {
+btn_purple.addEventListener('click', () => {
   window.location.reload();
 });
 btn_blue.addEventListener('click', () => {
