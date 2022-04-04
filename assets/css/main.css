@@ -239,6 +239,29 @@ body {
     font-size: 20px;
 }
 
+.rumus h4 {
+    background: var(--rumus) !important;
+    padding: 1rem 1.5rem;
+    width: 94.5%;
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: 520;
+    border-radius: 11px;
+    word-spacing: 1.5rem;
+    color: var(--white);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.misalnya .kata-biasa h4 {
+    background: var(--rumus) !important;
+    padding: 1rem 1.5rem;
+    width: 600px;
+    font-weight: 520;
+    border-radius: 11px;
+    color: var(--white);
+    font-size: 20px;
+}
+
 .rumus .kata-sifat,
 .kata-kerja span {
     font-size: 15px;
