@@ -246,7 +246,6 @@ body {
     font-family: 'Red Hat Mono', monospace;
     font-weight: 520;
     border-radius: 11px;
-    word-spacing: 1rem;
     color: var(--white);
     font-size: 20px;
     font-style: italic;
