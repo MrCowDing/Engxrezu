@@ -242,12 +242,12 @@ body {
 .rumus h6 {
     background: var(--rumus) !important;
     padding: 1rem 1rem;
-    width: 94.5%;
+    width: 87.5%;
     font-family: 'Red Hat Mono', monospace;
-    font-weight: 520;
+    font-weight: 505;
     border-radius: 11px;
     color: var(--white);
-    font-size: 20px;
+    font-size: 15px;
     font-style: italic;
 }
 
