@@ -15,13 +15,13 @@
 
 
 :root {
-    --darkblue: #0cf5f1;
-    --main-color: #0cf5f1;
+    --darkblue: #00acb5;
+    --main-color: #00acb5;
     --pastelblue: #F2F7FF;
     --lilac: #f3f0ff;
     --hovernav: #edfcfc;
     --aqua: #3debb7;
-    --white: #0cf5f1;
+    --white: #00acb5;
     --rumus: #ffffff;
     /*#87E8D6*/
 
@@ -88,7 +88,7 @@
     background: #4d3f7e;
 }
 .btn-purple{
-    background: #7c00b5;
+    background: #00acb5;
 }
 body {
     min-height: 100vh;
