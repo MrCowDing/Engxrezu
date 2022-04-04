@@ -1,4 +1,4 @@
-    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
@@ -15,13 +15,13 @@
 
 
 :root {
-    --darkblue: #7c00b5;
-    --main-color: #7c00b5;
+    --darkblue: #0cf5f1;
+    --main-color: #0cf5f1;
     --pastelblue: #F2F7FF;
     --lilac: #f3f0ff;
-    --hovernav: #00b594;
+    --hovernav: #edfcfc;
     --aqua: #3debb7;
-    --white: #7c00b5;
+    --white: #0cf5f1;
     --rumus: #ffffff;
     /*#87E8D6*/
 
