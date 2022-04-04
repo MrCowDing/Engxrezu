@@ -241,7 +241,7 @@ body {
 
 .rumus h6 {
     background: var(--rumus) !important;
-    padding: 1rem 1.5rem;
+    padding: 1rem 1rem;
     width: 94.5%;
     font-family: 'Red Hat Mono', monospace;
     font-weight: 520;
@@ -250,16 +250,6 @@ body {
     color: var(--white);
     font-size: 20px;
     font-style: italic;
-}
-
-.misalnya .kata-biasa h6 {
-    background: var(--rumus) !important;
-    padding: 1rem 1rem;
-    width: 600px;
-    font-weight: 520;
-    border-radius: 11px;
-    color: var(--white);
-    font-size: 20px;
 }
 
 .rumus .kata-sifat,
