@@ -290,7 +290,7 @@ header .container {
     top: 0;
     right: 0;
     max-width: 450px;
-    width: 100%;
+    width: 75%;
     height: 100%;
     background-color: var(--mainColor);
     z-index: 95;
