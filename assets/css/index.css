@@ -135,7 +135,7 @@ header .container {
 
 .hamburger-menu {
   position: relative;
-  z-index: 99;
+  z-index: 55;
   width: 2rem;
   height: 2rem;
   display: flex;
